@@ -1,0 +1,10 @@
+.img,.div_img{
+    width: 90px;
+}
+.img{
+    border: solid #3882F6;
+}
+.one>.container{
+    align-items: center;
+    justify-content: center;
+}
