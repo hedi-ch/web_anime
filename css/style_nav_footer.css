@@ -14,7 +14,7 @@ nav,header,footer{
 nav.container{
     justify-content: space-between;
 }
-.container>li{
+.container>a{
     flex :1 0 auto;
     margin-left: 8px;
     margin-right: 19px;
