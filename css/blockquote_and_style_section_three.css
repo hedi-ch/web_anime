@@ -1,0 +1,20 @@
+.two{
+    background-color: #E5E7EB;
+    align-items: center;
+    justify-content: center;
+}
+blockquote{
+    font-size: 36px;
+    font-weight: light;
+    font-style:italic;
+    color :#1F2937;
+    width: 65%;
+    
+}
+blockquote>samp{
+    display: block;
+    float: right;
+}
+blockquote>p{
+    width: 60%;
+}
