@@ -1,6 +1,7 @@
 .container{
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
 }
 nav>img{
     height: 45px;
@@ -9,6 +10,9 @@ nav>img{
 }
 nav,header,footer{
     background-color: #1F2937;
+}
+nav.container{
+    justify-content: space-between;
 }
 .container>li{
     flex :1 0 auto;
@@ -38,8 +42,6 @@ header>div>p{
     margin: 100px;
     color:white;
     background-color: rgba(211, 204, 204, 0.26);
-    align-items:center;
-    justify-content: center;
 }
 header{
     align-items: center;

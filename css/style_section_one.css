@@ -22,3 +22,6 @@ h2{
     font-size: 36px;
     color: #1f2937;
 }
+.one>.container{
+    justify-content: space-between;
+}
