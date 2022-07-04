@@ -47,13 +47,14 @@ header{
     align-items: center;
     justify-content:center;
 }
-header>div>button{
+button{
     background-color:#3882F6 ;
     border-radius: 7px;
     color: white;
     font-weight: bold;
     width: 90px;
     height: 25px;
+    border:0px;
 }
 footer{
     display: flex;
