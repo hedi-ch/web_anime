@@ -3,8 +3,23 @@
 }
 .img{
     border: solid #3882F6;
+    border-radius: 15% ;
 }
 .one>.container{
+    width: 70%;
+    align-items: center;
+}
+.one{
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+.div_img>p{
+    margin: 0;
+}
+h2{
+    font-weight: bold;
+    font-size: 36px;
+    color: #1f2937;
 }
